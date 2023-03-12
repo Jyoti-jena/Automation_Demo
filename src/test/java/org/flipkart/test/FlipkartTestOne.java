@@ -91,7 +91,7 @@ public class FlipkartTestOne extends Base {
 	 */
 	@AfterMethod
 	public void tearDown() {
-		//quitBrowser();
+		quitBrowser();
 	}
 
 }
