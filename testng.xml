@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="10" name="Test" annotations="JDK" parallel="tests">
+    <classes>
+      <class name="org.demoqa.test.DemoqaFrameTest"/>
+      <class name="org.demoqa.test.NewBrowserWindowTest"/>
+      <class name="org.demoqa.test.DemoqaDragDropTest"/>
+      <class name="org.demoqa.test.DemoqaAlertTest"/>
+      <class name="org.flipkart.test.FlipkartTestOne"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+

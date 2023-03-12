@@ -1,0 +1,4 @@
+org\propertyReader\PropertyInfo.class
+org\browserFactory\BrowserFactory.class
+org\flipkart\base\BaseClass.class
+org\flipkart\pages\HomePage.class

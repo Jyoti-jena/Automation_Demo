@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-13T00:04:40 IST" name="Suite" finished-at="2023-03-13T00:05:31 IST" duration-ms="50706">
+    <groups>
+    </groups>
+    <test started-at="2023-03-13T00:04:40 IST" name="Test" finished-at="2023-03-13T00:05:31 IST" duration-ms="50706">
+      <class name="org.demoqa.test.DemoqaDragDropTest">
+        <test-method is-config="true" signature="demoqaAlertTestApp()[pri:0, instance:org.demoqa.test.DemoqaDragDropTest@368f2016]" started-at="2023-03-13T00:04:56 IST" name="demoqaAlertTestApp" finished-at="2023-03-13T00:05:04 IST" duration-ms="7644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoqaAlertTestApp -->
+        <test-method signature="childParentFrameTest()[pri:0, instance:org.demoqa.test.DemoqaDragDropTest@368f2016]" started-at="2023-03-13T00:05:04 IST" name="childParentFrameTest" finished-at="2023-03-13T00:05:04 IST" duration-ms="608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- childParentFrameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.demoqa.test.DemoqaDragDropTest@368f2016]" started-at="2023-03-13T00:05:04 IST" name="tearDown" finished-at="2023-03-13T00:05:05 IST" duration-ms="730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.demoqa.test.DemoqaDragDropTest -->
+      <class name="org.flipkart.test.FlipkartTestOne">
+        <test-method is-config="true" signature="flipkartApplication()[pri:0, instance:org.flipkart.test.FlipkartTestOne@692f203f]" started-at="2023-03-13T00:05:17 IST" name="flipkartApplication" finished-at="2023-03-13T00:05:20 IST" duration-ms="3331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartApplication -->
+        <test-method signature="runAutomation()[pri:0, instance:org.flipkart.test.FlipkartTestOne@692f203f]" started-at="2023-03-13T00:05:20 IST" name="runAutomation" finished-at="2023-03-13T00:05:31 IST" duration-ms="10711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runAutomation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.flipkart.test.FlipkartTestOne@692f203f]" started-at="2023-03-13T00:05:31 IST" name="tearDown" finished-at="2023-03-13T00:05:31 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.flipkart.test.FlipkartTestOne -->
+      <class name="org.demoqa.test.DemoqaAlertTest">
+        <test-method is-config="true" signature="demoqaAlertTestApp()[pri:0, instance:org.demoqa.test.DemoqaAlertTest@4c583ecf]" started-at="2023-03-13T00:05:05 IST" name="demoqaAlertTestApp" finished-at="2023-03-13T00:05:11 IST" duration-ms="5627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoqaAlertTestApp -->
+        <test-method signature="childParentFrameTest()[pri:0, instance:org.demoqa.test.DemoqaAlertTest@4c583ecf]" started-at="2023-03-13T00:05:11 IST" name="childParentFrameTest" finished-at="2023-03-13T00:05:16 IST" duration-ms="5511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- childParentFrameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.demoqa.test.DemoqaAlertTest@4c583ecf]" started-at="2023-03-13T00:05:16 IST" name="tearDown" finished-at="2023-03-13T00:05:17 IST" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.demoqa.test.DemoqaAlertTest -->
+      <class name="org.demoqa.test.NewBrowserWindowTest">
+        <test-method is-config="true" signature="demoqaAlertTestApp()[pri:0, instance:org.demoqa.test.NewBrowserWindowTest@4d5d943d]" started-at="2023-03-13T00:04:49 IST" name="demoqaAlertTestApp" finished-at="2023-03-13T00:04:55 IST" duration-ms="5752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoqaAlertTestApp -->
+        <test-method signature="childParentFrameTest()[pri:0, instance:org.demoqa.test.NewBrowserWindowTest@4d5d943d]" started-at="2023-03-13T00:04:55 IST" name="childParentFrameTest" finished-at="2023-03-13T00:04:55 IST" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- childParentFrameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.demoqa.test.NewBrowserWindowTest@4d5d943d]" started-at="2023-03-13T00:04:55 IST" name="tearDown" finished-at="2023-03-13T00:04:56 IST" duration-ms="733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.demoqa.test.NewBrowserWindowTest -->
+      <class name="org.demoqa.test.DemoqaFrameTest">
+        <test-method is-config="true" signature="flipkartApplication()[pri:0, instance:org.demoqa.test.DemoqaFrameTest@4550bb58]" started-at="2023-03-13T00:04:40 IST" name="flipkartApplication" finished-at="2023-03-13T00:04:48 IST" duration-ms="7919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartApplication -->
+        <test-method signature="childParentFrameTest()[pri:0, instance:org.demoqa.test.DemoqaFrameTest@4550bb58]" started-at="2023-03-13T00:04:48 IST" name="childParentFrameTest" finished-at="2023-03-13T00:04:48 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- childParentFrameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.demoqa.test.DemoqaFrameTest@4550bb58]" started-at="2023-03-13T00:04:48 IST" name="tearDown" finished-at="2023-03-13T00:04:49 IST" duration-ms="715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.demoqa.test.DemoqaFrameTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
